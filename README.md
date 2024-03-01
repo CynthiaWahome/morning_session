@@ -1,2 +1,6 @@
 # morning_session
-This is for illustration of what git and github is about
+## Our demo on git and github
+# contributors
+- Cynthia
+- Ruth
+- Ken
